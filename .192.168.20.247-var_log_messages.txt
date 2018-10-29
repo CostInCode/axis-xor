@@ -1,0 +1,287 @@
+
+----- System log -----
+
+2018-10-29T14:26:27.612+01:00 axis-00408ce8dd13 [ WARNING ] scheduled[675]: Timezone was manipulated!
+2018-10-29T14:26:30.113+01:00 axis-00408ce8dd13 [ WARNING ] disks[720]: disk.c : Disk disruption detection status changed for SD_DISK. Status = 'disruption'
+2018-10-29T14:26:30.453+01:00 axis-00408ce8dd13 [ WARNING ] disks[720]: disk.c : Disk disruption detection status changed for NetworkShare. Status = 'disruption'
+2018-10-29T16:07:57.359+01:00 axis-00408ce8dd13 [ INFO    ] main: 39593
+2018-10-29T16:07:57.616+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:57.645+01:00 axis-00408ce8dd13 [ INFO    ] main: 39573
+2018-10-29T16:07:57.817+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:57.831+01:00 axis-00408ce8dd13 [ INFO    ] main: 39538
+2018-10-29T16:07:58.000+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:58.021+01:00 axis-00408ce8dd13 [ INFO    ] main: 39659
+2018-10-29T16:07:58.179+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:58.201+01:00 axis-00408ce8dd13 [ INFO    ] main: 39526
+2018-10-29T16:07:58.352+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:58.382+01:00 axis-00408ce8dd13 [ INFO    ] main: 39459
+2018-10-29T16:07:58.529+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:58.549+01:00 axis-00408ce8dd13 [ INFO    ] main: 39599
+2018-10-29T16:07:58.701+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:58.717+01:00 axis-00408ce8dd13 [ INFO    ] main: 39459
+2018-10-29T16:07:58.881+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:58.901+01:00 axis-00408ce8dd13 [ INFO    ] main: 39517
+2018-10-29T16:07:59.051+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:59.082+01:00 axis-00408ce8dd13 [ INFO    ] main: 39519
+2018-10-29T16:07:59.245+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:59.276+01:00 axis-00408ce8dd13 [ INFO    ] main: 39645
+2018-10-29T16:07:59.428+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:59.447+01:00 axis-00408ce8dd13 [ INFO    ] main: 39576
+2018-10-29T16:07:59.619+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:59.651+01:00 axis-00408ce8dd13 [ INFO    ] main: 39412
+2018-10-29T16:07:59.803+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:59.820+01:00 axis-00408ce8dd13 [ INFO    ] main: 39585
+2018-10-29T16:07:59.977+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:07:59.989+01:00 axis-00408ce8dd13 [ INFO    ] main: 39649
+2018-10-29T16:08:00.177+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:00.198+01:00 axis-00408ce8dd13 [ INFO    ] main: 39473
+2018-10-29T16:08:00.341+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:00.372+01:00 axis-00408ce8dd13 [ INFO    ] main: 39536
+2018-10-29T16:08:00.523+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:00.550+01:00 axis-00408ce8dd13 [ INFO    ] main: 39448
+2018-10-29T16:08:00.719+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:00.727+01:00 axis-00408ce8dd13 [ INFO    ] main: 39465
+2018-10-29T16:08:00.882+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:00.915+01:00 axis-00408ce8dd13 [ INFO    ] main: 39585
+2018-10-29T16:08:01.070+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:01.085+01:00 axis-00408ce8dd13 [ INFO    ] main: 39668
+2018-10-29T16:08:01.222+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:01.251+01:00 axis-00408ce8dd13 [ INFO    ] main: 39369
+2018-10-29T16:08:01.405+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:01.422+01:00 axis-00408ce8dd13 [ INFO    ] main: 39684
+2018-10-29T16:08:01.589+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:01.599+01:00 axis-00408ce8dd13 [ INFO    ] main: 39516
+2018-10-29T16:08:01.757+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:01.778+01:00 axis-00408ce8dd13 [ INFO    ] main: 39513
+2018-10-29T16:08:01.939+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:01.958+01:00 axis-00408ce8dd13 [ INFO    ] main: 39437
+2018-10-29T16:08:02.119+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:02.147+01:00 axis-00408ce8dd13 [ INFO    ] main: 39637
+2018-10-29T16:08:02.291+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:02.325+01:00 axis-00408ce8dd13 [ INFO    ] main: 39653
+2018-10-29T16:08:02.509+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:02.520+01:00 axis-00408ce8dd13 [ INFO    ] main: 39495
+2018-10-29T16:08:02.687+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:02.699+01:00 axis-00408ce8dd13 [ INFO    ] main: 39679
+2018-10-29T16:08:02.854+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:02.885+01:00 axis-00408ce8dd13 [ INFO    ] main: 39696
+2018-10-29T16:08:03.045+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:03.058+01:00 axis-00408ce8dd13 [ INFO    ] main: 39568
+2018-10-29T16:08:03.231+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:03.251+01:00 axis-00408ce8dd13 [ INFO    ] main: 39448
+2018-10-29T16:08:03.419+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:03.430+01:00 axis-00408ce8dd13 [ INFO    ] main: 39592
+2018-10-29T16:08:03.599+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:03.616+01:00 axis-00408ce8dd13 [ INFO    ] main: 39500
+2018-10-29T16:08:03.785+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:03.800+01:00 axis-00408ce8dd13 [ INFO    ] main: 39583
+2018-10-29T16:08:03.955+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:03.968+01:00 axis-00408ce8dd13 [ INFO    ] main: 39579
+2018-10-29T16:08:04.132+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:04.142+01:00 axis-00408ce8dd13 [ INFO    ] main: 39658
+2018-10-29T16:08:04.305+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:04.321+01:00 axis-00408ce8dd13 [ INFO    ] main: 39615
+2018-10-29T16:08:04.388+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:04.421+01:00 axis-00408ce8dd13 [ INFO    ] main: 39598
+2018-10-29T16:08:04.573+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:04.587+01:00 axis-00408ce8dd13 [ INFO    ] main: 39581
+2018-10-29T16:08:04.738+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:04.754+01:00 axis-00408ce8dd13 [ INFO    ] main: 39793
+2018-10-29T16:08:04.916+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:04.946+01:00 axis-00408ce8dd13 [ INFO    ] main: 39786
+2018-10-29T16:08:05.092+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:05.109+01:00 axis-00408ce8dd13 [ INFO    ] main: 39578
+2018-10-29T16:08:05.267+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:05.288+01:00 axis-00408ce8dd13 [ INFO    ] main: 39687
+2018-10-29T16:08:05.455+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:05.472+01:00 axis-00408ce8dd13 [ INFO    ] main: 39708
+2018-10-29T16:08:05.626+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:05.647+01:00 axis-00408ce8dd13 [ INFO    ] main: 39711
+2018-10-29T16:08:05.800+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:05.822+01:00 axis-00408ce8dd13 [ INFO    ] main: 39523
+2018-10-29T16:08:05.979+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:05.993+01:00 axis-00408ce8dd13 [ INFO    ] main: 39612
+2018-10-29T16:08:06.157+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:06.172+01:00 axis-00408ce8dd13 [ INFO    ] main: 39529
+2018-10-29T16:08:06.317+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:06.344+01:00 axis-00408ce8dd13 [ INFO    ] main: 39592
+2018-10-29T16:08:06.501+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:06.520+01:00 axis-00408ce8dd13 [ INFO    ] main: 39550
+2018-10-29T16:08:06.660+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:06.682+01:00 axis-00408ce8dd13 [ INFO    ] main: 39379
+2018-10-29T16:08:06.835+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:06.852+01:00 axis-00408ce8dd13 [ INFO    ] main: 39710
+2018-10-29T16:08:07.007+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:07.026+01:00 axis-00408ce8dd13 [ INFO    ] main: 39665
+2018-10-29T16:08:07.183+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:07.211+01:00 axis-00408ce8dd13 [ INFO    ] main: 39611
+2018-10-29T16:08:07.477+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:07.494+01:00 axis-00408ce8dd13 [ INFO    ] main: 39651
+2018-10-29T16:08:07.658+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:07.683+01:00 axis-00408ce8dd13 [ INFO    ] main: 39512
+2018-10-29T16:08:07.821+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:07.844+01:00 axis-00408ce8dd13 [ INFO    ] main: 39579
+2018-10-29T16:08:08.019+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:08.050+01:00 axis-00408ce8dd13 [ INFO    ] main: 39663
+2018-10-29T16:08:08.203+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:08.226+01:00 axis-00408ce8dd13 [ INFO    ] main: 39558
+2018-10-29T16:08:08.389+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:08.405+01:00 axis-00408ce8dd13 [ INFO    ] main: 39463
+2018-10-29T16:08:08.571+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:08.585+01:00 axis-00408ce8dd13 [ INFO    ] main: 39651
+2018-10-29T16:08:08.658+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:08.691+01:00 axis-00408ce8dd13 [ INFO    ] main: 39692
+2018-10-29T16:08:08.841+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:08.861+01:00 axis-00408ce8dd13 [ INFO    ] main: 39548
+2018-10-29T16:08:09.023+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:09.045+01:00 axis-00408ce8dd13 [ INFO    ] main: 39539
+2018-10-29T16:08:09.196+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:09.223+01:00 axis-00408ce8dd13 [ INFO    ] main: 39580
+2018-10-29T16:08:09.370+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:09.397+01:00 axis-00408ce8dd13 [ INFO    ] main: 39562
+2018-10-29T16:08:09.557+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:09.585+01:00 axis-00408ce8dd13 [ INFO    ] main: 39601
+2018-10-29T16:08:09.726+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:09.757+01:00 axis-00408ce8dd13 [ INFO    ] main: 39445
+2018-10-29T16:08:09.914+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:09.941+01:00 axis-00408ce8dd13 [ INFO    ] main: 39684
+2018-10-29T16:08:10.092+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:10.120+01:00 axis-00408ce8dd13 [ INFO    ] main: 39613
+2018-10-29T16:08:10.264+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:10.288+01:00 axis-00408ce8dd13 [ INFO    ] main: 39728
+2018-10-29T16:08:10.452+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:10.469+01:00 axis-00408ce8dd13 [ INFO    ] main: 39654
+2018-10-29T16:08:10.632+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:10.652+01:00 axis-00408ce8dd13 [ INFO    ] main: 39595
+2018-10-29T16:08:10.809+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:10.830+01:00 axis-00408ce8dd13 [ INFO    ] main: 39635
+2018-10-29T16:08:10.983+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:10.996+01:00 axis-00408ce8dd13 [ INFO    ] main: 39651
+2018-10-29T16:08:11.155+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:08:11.181+01:00 axis-00408ce8dd13 [ INFO    ] main: 39577
+2018-10-29T16:08:27.556+01:00 axis-00408ce8dd13 [ INFO    ] control.cgi: calling: /etc/init.d/sdkmain stop
+2018-10-29T16:08:27.614+01:00 axis-00408ce8dd13 [ INFO    ] main[0]: stopping main
+2018-10-29T16:34:30.367+01:00 axis-00408ce8dd13 [ INFO    ] upload.cgi: Uploaded '/tmp/main_1_0_mipsisa32r2el.eap' size:34400
+2018-10-29T16:34:31.368+01:00 axis-00408ce8dd13 [ NOTICE  ] dbus[412]: [system] Reloaded configuration
+2018-10-29T16:34:32.945+01:00 axis-00408ce8dd13 [ INFO    ] upload.cgi: Package /tmp/main_1_0_mipsisa32r2el.eap installation OK
+2018-10-29T16:34:32.947+01:00 axis-00408ce8dd13 [ NOTICE  ] dbus[412]: message repeated 2 times: [ [system] Reloaded configuration]
+2018-10-29T16:36:27.633+01:00 axis-00408ce8dd13 [ INFO    ] control.cgi: calling: /etc/init.d/sdkmain start
+2018-10-29T16:36:27.899+01:00 axis-00408ce8dd13 [ INFO    ] main[0]: starting main
+2018-10-29T16:38:26.408+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:26.427+01:00 axis-00408ce8dd13 [ INFO    ] main: 57280
+2018-10-29T16:38:26.436+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57280
+2018-10-29T16:38:26.603+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:26.627+01:00 axis-00408ce8dd13 [ INFO    ] main: 57097
+2018-10-29T16:38:26.634+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57097
+2018-10-29T16:38:26.772+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:26.793+01:00 axis-00408ce8dd13 [ INFO    ] main: 57202
+2018-10-29T16:38:26.806+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57202
+2018-10-29T16:38:26.905+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:26.927+01:00 axis-00408ce8dd13 [ INFO    ] main: 57220
+2018-10-29T16:38:26.937+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57220
+2018-10-29T16:38:27.072+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:27.094+01:00 axis-00408ce8dd13 [ INFO    ] main: 57033
+2018-10-29T16:38:27.102+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57033
+2018-10-29T16:38:27.213+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:27.228+01:00 axis-00408ce8dd13 [ INFO    ] main: 57064
+2018-10-29T16:38:27.238+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57064
+2018-10-29T16:38:27.340+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:27.361+01:00 axis-00408ce8dd13 [ INFO    ] main: 57230
+2018-10-29T16:38:27.371+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57230
+2018-10-29T16:38:27.473+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:27.494+01:00 axis-00408ce8dd13 [ INFO    ] main: 57069
+2018-10-29T16:38:27.507+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57069
+2018-10-29T16:38:27.606+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:27.628+01:00 axis-00408ce8dd13 [ INFO    ] main: 56994
+2018-10-29T16:38:27.637+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 56994
+2018-10-29T16:38:27.741+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:27.761+01:00 axis-00408ce8dd13 [ INFO    ] main: 57046
+2018-10-29T16:38:27.772+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57046
+2018-10-29T16:38:27.874+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:27.894+01:00 axis-00408ce8dd13 [ INFO    ] main: 57111
+2018-10-29T16:38:27.902+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57111
+2018-10-29T16:38:28.008+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:28.028+01:00 axis-00408ce8dd13 [ INFO    ] main: 56949
+2018-10-29T16:38:28.039+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 56949
+2018-10-29T16:38:28.143+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:28.162+01:00 axis-00408ce8dd13 [ INFO    ] main: 57140
+2018-10-29T16:38:28.169+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57140
+2018-10-29T16:38:28.279+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:28.295+01:00 axis-00408ce8dd13 [ INFO    ] main: 57163
+2018-10-29T16:38:28.306+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57163
+2018-10-29T16:38:28.407+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:28.429+01:00 axis-00408ce8dd13 [ INFO    ] main: 57238
+2018-10-29T16:38:28.437+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57238
+2018-10-29T16:38:28.544+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:28.563+01:00 axis-00408ce8dd13 [ INFO    ] main: 56983
+2018-10-29T16:38:28.573+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 56983
+2018-10-29T16:38:28.674+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:28.695+01:00 axis-00408ce8dd13 [ INFO    ] main: 57004
+2018-10-29T16:38:28.707+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57004
+2018-10-29T16:38:28.808+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:28.829+01:00 axis-00408ce8dd13 [ INFO    ] main: 56992
+2018-10-29T16:38:28.839+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 56992
+2018-10-29T16:38:28.941+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:28.962+01:00 axis-00408ce8dd13 [ INFO    ] main: 57202
+2018-10-29T16:38:28.972+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57202
+2018-10-29T16:38:29.175+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:29.195+01:00 axis-00408ce8dd13 [ INFO    ] main: 57106
+2018-10-29T16:38:29.204+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57106
+2018-10-29T16:38:29.309+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:29.330+01:00 axis-00408ce8dd13 [ INFO    ] main: 56888
+2018-10-29T16:38:29.339+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 56888
+2018-10-29T16:38:29.443+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:29.463+01:00 axis-00408ce8dd13 [ INFO    ] main: 57193
+2018-10-29T16:38:29.472+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57193
+2018-10-29T16:38:29.577+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:29.596+01:00 axis-00408ce8dd13 [ INFO    ] main: 57119
+2018-10-29T16:38:29.607+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57119
+2018-10-29T16:38:29.713+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:29.730+01:00 axis-00408ce8dd13 [ INFO    ] main: 57045
+2018-10-29T16:38:29.739+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57045
+2018-10-29T16:38:29.845+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:29.863+01:00 axis-00408ce8dd13 [ INFO    ] main: 56895
+2018-10-29T16:38:29.873+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 56895
+2018-10-29T16:38:29.976+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:29.996+01:00 axis-00408ce8dd13 [ INFO    ] main: 56954
+2018-10-29T16:38:30.006+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 56954
+2018-10-29T16:38:30.112+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:30.130+01:00 axis-00408ce8dd13 [ INFO    ] main: 57076
+2018-10-29T16:38:30.151+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57076
+2018-10-29T16:38:30.248+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:30.264+01:00 axis-00408ce8dd13 [ INFO    ] main: 57057
+2018-10-29T16:38:30.272+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57057
+2018-10-29T16:38:30.379+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:30.397+01:00 axis-00408ce8dd13 [ INFO    ] main: 57156
+2018-10-29T16:38:30.405+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57156
+2018-10-29T16:38:30.514+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:30.534+01:00 axis-00408ce8dd13 [ INFO    ] main: 57400
+2018-10-29T16:38:30.544+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57400
+2018-10-29T16:38:30.643+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:30.664+01:00 axis-00408ce8dd13 [ INFO    ] main: 57014
+2018-10-29T16:38:30.671+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57014
+2018-10-29T16:38:30.777+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:30.797+01:00 axis-00408ce8dd13 [ INFO    ] main: 57023
+2018-10-29T16:38:30.804+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57023
+2018-10-29T16:38:30.919+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:30.931+01:00 axis-00408ce8dd13 [ INFO    ] main: 56897
+2018-10-29T16:38:30.942+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 56897
+2018-10-29T16:38:31.043+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:31.064+01:00 axis-00408ce8dd13 [ INFO    ] main: 56993
+2018-10-29T16:38:31.072+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 56993
+2018-10-29T16:38:31.178+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:31.198+01:00 axis-00408ce8dd13 [ INFO    ] main: 56925
+2018-10-29T16:38:31.206+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 56925
+2018-10-29T16:38:31.317+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:31.332+01:00 axis-00408ce8dd13 [ INFO    ] main: 57043
+2018-10-29T16:38:31.340+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 57043
+2018-10-29T16:38:31.445+01:00 axis-00408ce8dd13 [ INFO    ] main: fp=1&resolution=1280x720
+2018-10-29T16:38:31.465+01:00 axis-00408ce8dd13 [ INFO    ] main: 56898
+2018-10-29T16:38:31.471+01:00 axis-00408ce8dd13 [ INFO    ] main: SENT = 56898
+2018-10-29T16:38:51.008+01:00 axis-00408ce8dd13 [ INFO    ] control.cgi: calling: /etc/init.d/sdkmain stop
+2018-10-29T16:38:51.042+01:00 axis-00408ce8dd13 [ INFO    ] main[0]: stopping main
+2018-10-29T16:44:04.864+01:00 axis-00408ce8dd13 [ INFO    ] control.cgi: calling: /etc/init.d/sdkmain start
+2018-10-29T16:44:05.130+01:00 axis-00408ce8dd13 [ INFO    ] main[0]: starting main
+2018-10-29T16:44:37.844+01:00 axis-00408ce8dd13 [ INFO    ] control.cgi: calling: /etc/init.d/sdkmain stop
+2018-10-29T16:44:37.883+01:00 axis-00408ce8dd13 [ INFO    ] main[0]: stopping main
+2018-10-29T17:12:13.878+01:00 axis-00408ce8dd13 [ INFO    ] control.cgi: Application 'main' is not running
